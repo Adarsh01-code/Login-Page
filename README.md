@@ -1,1 +1,1 @@
-This is a responsive Login-Page made using HTML,CSS,Javascript for modern websites.
+This is a responsive Login-Page made using HTML and CSS for modern websites.
